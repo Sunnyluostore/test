@@ -1,0 +1,7 @@
+id,name,category,price,original_price,image_url,description,attributes,stock,details,purchase_url
+1,高级无线蓝牙耳机,电子产品,299,399,https://picsum.photos/seed/headphones/600/400,高品质无线蓝牙耳机，主动降噪，30小时续航,颜色:黑色;材质:铝合金;连接方式:蓝牙5.0,50,高级无线蓝牙耳机采用最新蓝牙5.0技术，提供稳定连接和出色音质。内置4麦克风阵列，通话清晰。支持快速充电，充电10分钟可使用2小时。,https://example.com/buy/1
+2,智能手表Pro,电子产品,1599,1799,https://picsum.photos/seed/watch/600/400,全触控智能手表，支持心率监测、GPS定位,颜色:银色;屏幕尺寸:1.39英寸;防水等级:50米,30,智能手表Pro配备高清AMOLED触控屏，支持24小时心率监测、睡眠分析和15种运动模式。内置GPS，可独立记录运动轨迹。续航可达7天。,https://example.com/buy/2
+3,纯棉修身衬衫,男装,259,299,https://picsum.photos/seed/shirt/600/400,100%纯棉面料，舒适透气，修身剪裁,颜色:白色;尺码:S,M,L,XL;材质:纯棉,100,这款男士衬衫采用优质长绒棉制成，柔软透气，适合四季穿着。经典修身剪裁，既适合商务场合也适合日常休闲。,https://example.com/buy/3
+4,全自动咖啡机,家用电器,2499,2999,https://picsum.photos/seed/coffee/600/400,一键操作，多种咖啡选择，自动清洁功能,颜色:黑色;容量:1.8L;功率:1500W,15,这款全自动咖啡机可以制作 espresso、卡布奇诺、拿铁等多种咖啡。内置研磨功能，可调节咖啡浓度。自动清洁系统，使用更方便。,https://example.com/buy/4
+5,专业摄影三脚架,摄影器材,599,799,https://picsum.photos/seed/tripod/600/400,铝合金材质，承重8kg，高度可调,最大高度:160cm;最小高度:35cm;重量:1.2kg,25,专业摄影三脚架采用高强度铝合金制造，轻便耐用。360°旋转云台，支持水平和垂直拍摄。快速锁紧系统，操作便捷。,https://example.com/buy/5
+    
